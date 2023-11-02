@@ -16,4 +16,3 @@ server_scripts {
 	'config.lua',
 	'Server/*.lua'
 }
-
