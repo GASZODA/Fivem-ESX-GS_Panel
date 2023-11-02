@@ -19,7 +19,7 @@ panelt.
 A `config.lua`-ban az Engedélyek Beállítása résznél
 a `Config.Roles` részhez hozzáadható a jogosultság.
 
-#Add hozzá a server.cfg
+# Add hozzá a server.cfg
 
 - add_ace resource.GS_Panel command.stop allow
 - add_ace resource.GS_Panel command.start allow
