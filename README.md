@@ -21,8 +21,8 @@ a `Config.Roles` részhez hozzáadható a jogosultság.
 
 #Add hozzá a server.cfg
 
-- add_ace resource.hh_cmd command.stop allow
-- add_ace resource.hh_cmd command.start allow
+- add_ace resource.GS_Panel command.stop allow
+- add_ace resource.GS_Panel command.start allow
 
 ## Segítségért bátran fordulj hozzám Discordon
 
