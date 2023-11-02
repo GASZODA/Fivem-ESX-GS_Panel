@@ -29,3 +29,4 @@ a `Config.Roles` részhez hozzáadható a jogosultság.
 
 [![Discord](https://discordapp.com/api/guilds/554308170387030036/embed.png)](https://discord.gg/EgNMNMW69x)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)]()
+
