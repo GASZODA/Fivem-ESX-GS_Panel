@@ -11,7 +11,7 @@
 ## Panel és a Bot szekesztés
 
 A Panel és a Bot szerkesztéséhez nyistd meg az
-`config.lua`-át.Itt majd egyénire szabhatod a
+`config.lua`-át. Itt majd egyénire szabhatod a
 panelt.
 
 # Add hozzá a Discord Engedélyeket
