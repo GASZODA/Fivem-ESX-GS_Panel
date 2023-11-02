@@ -11,13 +11,13 @@
 ## Panel és a Bot szekesztés
 
 A Panel és a Bot szerkesztéséhez nyistd meg az
-**config.lua**-át.Itt majd egyénire szabhatod a
+`config.lua`-át.Itt majd egyénire szabhatod a
 panelt.
 
 # Add hozzá a Discord Engedélyeket
 
-A **config.lua**-ban az Engedélyek Beállítása résznél
-a **Config.Roles** részhez hozzáadható a jogosultság.
+A `config.lua`-ban az Engedélyek Beállítása résznél
+a `Config.Roles` részhez hozzáadható a jogosultság.
 
 #Add hozzá a server.cfg
 
